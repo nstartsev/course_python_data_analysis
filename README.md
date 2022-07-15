@@ -1,5 +1,5 @@
 # course_python_data_analysis
-python_2 https://contest.yandex.ru/contest/35968/problems/
+python_2 https://contest.yandex.ru/contest/35968/problems/ '\n'
 python_3 https://contest.yandex.ru/contest/36258/problems/
 python_4 https://contest.yandex.ru/contest/36469/problems
 python_5 https://contest.yandex.ru/contest/36672/problems/
